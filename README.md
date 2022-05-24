@@ -23,6 +23,6 @@ through at least the following stages:
 ## Code 401 - Advanced Software Development
 
 
-** contact me **
+**contact me**
 [GitHub account](https://github.com/mohammadsh96)
 [linked in ](https://www.linkedin.com/in/mohammad-alshraideh-67820b186/)
