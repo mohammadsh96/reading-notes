@@ -2,6 +2,8 @@
 
 
 [screenshot for some command](./sqlscreenshots/Screenshot(24).png)
+
+
 ### ls
 ##### this make you see what is inside this path  
 
