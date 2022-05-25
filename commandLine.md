@@ -1,8 +1,9 @@
 # commandLine 
 
 
-![screenshot for some command](./sqlscreenshots/Screenshot(24).png)
-
+![screenshots for some command](./sqlscreenshots/Screenshot(24).png)
+![..](sqlscreenshots/Screenshot(26).png)
+![..](sqlscreenshots/Screenshot(27).png)
 
 ### ls
 ##### this make you see what is inside this path  
@@ -68,7 +69,8 @@ View the man page for a command.
 #### man -k <search term>
 
 Search for man pages containing the search term.
-
+#### n
+After performing a search within a manual page, select the next found item.
 #### Press q to exit man pages
 
 ## File Manipulation
@@ -150,3 +152,91 @@ Make a copy of every jpg image file in the current directory and rename adding _
 #### find /home -mtime -1
 Find all files in the given directory (and subdirectories) which have been modified in the last 24 hours.
 ##### shutdown -h now
+
+### cat
+View a file.
+
+ ### less <file>
+
+less allows you to move up and down within a file using the arrow keys
+
+### vi 
+edit file 
+![vi command](sqlscreenshots/Screenshot(25).png)
+
+
+#### Wildcards may be used at any part of a path.
+Wherever a path is used
+Because wildcard substitution is done by the system, not the command, they may be used wherever a path is used.
+##### ex: * ? [] 
+
+### chmod
+Change permissions on a file or directory.
+ 
+ #### nl 
+ ![]()
+. nl - s ` . ` -w num 
+-s specifies what should be printed after the number while the second one -w specifies how much padding to put before the number.
+ #### word count wc 
+  By default it will give a count of all 
+  option : -l / -lw
+
+  #### Stream Editor sed
+
+ #### uniq
+Remove duplicate lines.
+#### tac
+Print the data in reverse order.
+#### top 
+a program make snapshot of what is currently happening on the system
+
+
+### egrep
+
+egrep is a program which will search a given set of data and print every line which contains a given pattern
+options : 
+ . (dot) - a single character.
+   ? - the preceding character matches 0 or 1 times only.
+#####   * - the preceding character matches 0 or more times.
+ #####  + - the preceding character matches 1 or more times.
+   {n} - the preceding character matches exactly n times.
+   {n,m} - the preceding character matches at least n times and not more than m times.
+   [agd] - the character is one of those included within the square brackets.
+   [^agd] - the character is not one of those included within the square brackets.
+   [c-f] - the dash within the square brackets operates as a range. In this case it means either the letters c, d, e or f.
+   () - allows us to group several characters to behave as one.
+   | (pipe symbol) - the logical OR operation.
+   ^ - matches the beginning of the line.
+   $ - matches the end of the line.
+ 
+  ### ps 
+  which stands for processes. In it's normal usage it will show you just the processes running in your current terminal (which is usually not very much). If we add the argument aux then it will show a complete system view which is a bit more helpful.
+  ##### option :
+  ###### aux hen it will show a complete system view which is a bit more helpful.
+
+#### jobs
+Display a list of current jobs running in the background.
+
+#### fg
+
+Move a background process into the foreground
+
+#!
+Shebang. Indicates which interpreter a script should be run with.
+
+##### echo
+Print a message to the screen.
+
+#### which
+Tells you the path to a particular program.
+
+##### $
+Placed before a variable name when we are referring to it's value.
+` `
+Backticks. Used to save the output of a program into a variable.
+
+##### date
+Prints the date.
+
+##### if [ ] then else fi
+Perform basic conditional logic.
