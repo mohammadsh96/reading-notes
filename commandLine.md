@@ -1,7 +1,7 @@
 # commandLine 
 
 
-[screenshot for some command](./sqlscreenshots/Screenshot(24).png)
+![screenshot for some command](./sqlscreenshots/Screenshot(24).png)
 
 
 ### ls
