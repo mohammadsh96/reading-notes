@@ -18,6 +18,10 @@ this is mohammad alshraideh web site for  javaScript course documentation
 
 [Learning Branches](./learningBranches.md)
 
+### Typing Practice 
+
+[Typing page](TypingPractice.md)
+
 
 
 **contact me**
