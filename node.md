@@ -26,7 +26,7 @@ we can run  the server bu  entring this comman ex : "node server.js" / "nodmone"
 
  **example creates a web server that listens for any kind of HTTP request on the URL http://127.0.0.1:8000/** : 
 
-  ![](../sqlscreenshots/ex.PNG)
+  ![ex](../sqlscreenshots/ex.PNG)
 
   ## introduction to Express : 
 
