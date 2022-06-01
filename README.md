@@ -30,7 +30,7 @@ this is mohammad alshraideh web site for  javaScript course documentation
 [Express-REST-API page](Express-REST-API.md)
 
 ### linked list
-[Linled list](linked-list.md)
+[Linked list](linked-list.md)
 
 
 **contact me**
