@@ -10,8 +10,7 @@
 
 | SQL                                      | NoSQL                                                  | 
 |------------------------------------------|--------------------------------------------------------|
-| databases are primarily called           |database are primarily called as non-relational or distributed database|
-|as Relational Databases                   | 
+| databases are primarily called as Relational Databases           |database are primarily called as non-relational or distributed database|             | 
 |------------------------------------------|----------------------------------------------------------| 
 | are table based databases                | are document based, key-value pairs, graph databases or wide-column stores|
 |------------------------------------------|---------------------------------------------------------------|
