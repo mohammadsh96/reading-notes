@@ -13,7 +13,6 @@
 | databases are primarily called           |database are primarily called as non-relational or distributed database|
 |as Relational Databases                   | 
 |------------------------------------------|----------------------------------------------------------| 
-
 | are table based databases                | are document based, key-value pairs, graph databases or wide-column stores|
 |------------------------------------------|---------------------------------------------------------------|
 |have predefined schema                    |  have dynamic schema |
