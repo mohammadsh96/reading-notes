@@ -24,7 +24,7 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |----------------------|--------------------|
 
 contacts: 
-|-------------------------|------------------|
+
 |contact me on GitHub    | [GitHub account](https://github.com/mohammadsh96)|
 |-------------------------|-------------------|
 |contact me on LinkedIn |[linked in ](https://www.linkedin.com/in/mohammad-alshraideh-67820b186/)|
