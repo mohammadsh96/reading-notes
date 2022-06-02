@@ -29,6 +29,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 
 [Express-REST-API page](Express-REST-API.md)
 
+### Data modeling
+[data modeling page](DataModeling.md)
+
 **contact me**
 
 [GitHub account](https://github.com/mohammadsh96)
