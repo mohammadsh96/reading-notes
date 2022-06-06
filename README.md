@@ -22,7 +22,8 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |-------------------|----------------------|
 |Data modeling        | [data modeling page](DataModeling.md)|
 |----------------------|--------------------|
-
+|sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)|
+|---------------------|---------------------------------|
 contacts: 
 
 |contact me on GitHub    |[GitHub account](https://github.com/mohammadsh96)|
