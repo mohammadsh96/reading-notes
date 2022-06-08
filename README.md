@@ -24,6 +24,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |----------------------|--------------------|
 |sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)|
 |---------------------|---------------------------------|
+|[Authentication](Authentication.md)|-------------|
+|-------------------|----------------------|
+
 contacts: 
 
 |contact me on GitHub    |[GitHub account](https://github.com/mohammadsh96)|
