@@ -24,7 +24,7 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |----------------------|--------------------|
 |sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)|
 |---------------------|---------------------------------|
-|[Authentication](Authentication.md)|-------------|
+|Authentication  | [Authentication](Authentication.md)|
 |-------------------|----------------------|
 
 contacts: 
