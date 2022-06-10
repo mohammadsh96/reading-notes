@@ -4,9 +4,10 @@ this is mohammad alshraideh web site for  javaScript course documentation
 
 
 ## Code 401 - Advanced Software Development
+
 |Table of content|  |
 |--------------------|------------------|  
-|  SQL  |  [SQL](./sql.md)  |
+|  SQL  |  [SQL](./sql.md)|
 |  | |
 |commandLine | [commandLine](./commandLine.md)|
 |  | |
