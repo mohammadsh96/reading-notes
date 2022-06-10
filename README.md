@@ -36,5 +36,5 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |  | |
 |contact me on LinkedIn | [linked in ](https://www.linkedin.com/in/mohammad-alshraideh-67820b186/)|
 |  |  | 
-|contact me on Email  :email:|  [Gmail](mhmd.shrydh1996@gmail.com)|
+|contact me on Email  :email:| ```js mhmd.shrydh1996@gmail.com ```|
 |  |  |
