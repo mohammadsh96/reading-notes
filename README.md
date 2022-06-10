@@ -7,25 +7,27 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |Table of content|---------------|
 |--------------------|------------------|  
 |  SQL PAGE            |[SQL](./sql.md)  |
-|----------------------|--------------------|
-|commandLine Page     | [commandLine](./commandLine.md)|
-|--------------------|----------------------|
+|----------------------|------------------------------------------|
+|commandLine Page | [commandLine](./commandLine.md)|
+|--------------------|----------------------------------------------|
 |Learning Branches  | [Learning Branches](./learningBranches.md)|
-|-------------------|------------------------|
+|-------------------|-----------------------------------------------|
 |Typing Practice  | [Typing page](TypingPractice.md)|
-|------------------|-----------------------|
+|------------------|-------------------------------------------------|
 |itroducton to node |[node page](./node.md)|
-|-------------------|---------------------------|
-|Express REST API   |  [Express-REST-API page](Express-REST-API.md)|
-|--------------------|---------------------|
+|-------------------|-------------------------------------------------|
+|Express REST API   | [Express-REST-API page](Express-REST-API.md)|
+|--------------------|-------------------------------------------------|
 |linked list       | [Linked list](linked-list.md)|
-|-------------------|----------------------|
+|-------------------|---------------------------------------------------|
 |Data modeling        | [data modeling page](DataModeling.md)|
-|----------------------|--------------------|
+|----------------------|-------------------------------------------------|
 |sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)|
-|---------------------|---------------------------------|
-|Authentication  | [Authentication](Authentication.md)|
-|-------------------|----------------------|
+
+|---------------------|--------------------------------------------------|
+|Authentication         |[Authentication](Authentication.md) |
+|-------------------|----------------------------------------------------|
+
 
 contacts: 
 
