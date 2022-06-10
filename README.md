@@ -15,7 +15,7 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |  | |
 |Typing Practice  | [Typing page](TypingPractice.md)|
 |  |  |
-|itroducton to node |[node page](./node.md)|
+|introducton to node |[node page](./node.md)|
 |  |  |
 |Express REST API   | [Express-REST-API page](Express-REST-API.md)|
 |  |  |
