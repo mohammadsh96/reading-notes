@@ -63,6 +63,7 @@ A `Queue` is Linear Data Structure where data elements are arranged sequentially
 6- `Peek` 
 
 how a Queue looks like ?
+
 ![characteristic](sqlscreenshots/stackAndQueue/R.png)
 
 - # Big O 
