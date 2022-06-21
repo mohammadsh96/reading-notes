@@ -7,33 +7,33 @@ this is mohammad alshraideh web site for  javaScript course documentation
 
 |Table of content|  |
 |--------------------|------------------|  
-|  SQL  |  [SQL](./sql.md)|
-|  | |
-|commandLine | [commandLine](./commandLine.md)|
-|  | |
-|Learning Branches  | [Learning Branches](./learningBranches.md)|
-|  | |
-|Typing Practice  | [Typing page](TypingPractice.md)|
-|  |  |
-|introducton to node |[node page](./node.md)|
-|  |  |
-|Express REST API   | [Express-REST-API page](Express-REST-API.md)|
-|  |  |
-|linked list   | [Linked list](linked-list.md)|
-|  |  |
-|Data modeling   | [data modeling page](DataModeling.md)|
-|  |   |
-|sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)|
-|  |  |
-|Authentication |[Authentication](Authentication.md) |
-|  |  |
-|JWT  |  [JWT](./JWT.md)|
-|  |  |
-|RBCA | [RBCA PAGE](RBCA.md)
-|   |  | 
-|Stacks& Queues| [Stacks& Queues](./StacksAndQueues.md) |
-|  |   |
+|  SQL  |  [SQL](./sql.md)| |  | |
+|commandLine | [commandLine](./commandLine.md)| |  | |
+|Learning Branches  | [Learning Branches](./learningBranches.md)| |  | |
+|Typing Practice  | [Typing page](TypingPractice.md)| |  |  |
+|introducton to node |[node page](./node.md)| |  |  |
+|Express REST API   | [Express-REST-API page](Express-REST-API.md)| |  |  |
+|linked list   | [Linked list](linked-list.md)| |  |  |
+|Data modeling   | [data modeling page](DataModeling.md)| |  |   |
+|sequelize-normalization|[sequelize-normalization](./sequelize-normalization.md)| |  |  |
+|Authentication |[Authentication](Authentication.md) | |  |  |
+|JWT  |  [JWT](./JWT.md)| |  |  |
+|RBCA | [RBCA PAGE](RBCA.md)| |   |  | 
+|Stacks& Queues| [Stacks& Queues](./StacksAndQueues.md) | |  |   |
 |Event-Driven| [Event-Driven](/event-driven.md)|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
