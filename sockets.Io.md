@@ -203,8 +203,11 @@ in a world where we’re using many JavaScript code and libraries are drasticall
 ***
 
 WebSocket network traffic:
+
 ![wsbS](./assets/webST.png)
+
 Socket.IO network traffic:
+
 ![io](./assets/webSI.png)
 When would you use Socket.IO?
 ***
