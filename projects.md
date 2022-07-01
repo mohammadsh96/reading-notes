@@ -3,7 +3,7 @@
 
 
 - ## 1-  " e-commerce / open-sooq " :
-it's a puplic store  which allows every one to sign up and offers his/her products or services and buy others products and services , or it can be personal website for  a company which provides specific types of services and products to customers and so the User will not post any thing in the website 
+it's a public store  which allows every one to sign up and offers his/her products or services and buy others products and services , or it can be personal website for  a company which provides specific types of services and products to customers and so the User will not post any thing in the website 
 
 
 
