@@ -89,7 +89,7 @@ the Website has :
 
 with the front-end:
 
-the user will be able to make real `Purchase order` and do `payments` for the products or services 
+the user will be able to make move between categories and Read real books and make real `Purchase order` and do `payments` for the products or services 
 
 sending real `Emails ` and `phone calls` and `locations`
 
