@@ -96,3 +96,8 @@ sending real `Emails ` and `phone calls` and `locations`
 --------
 ----
 
+## 3- school website
+It’s a web page of school or university. 
+Users can sign up and sign in. We can make signing up process done by username, password and a code given to users, let’s say as a range between numbers to be accepted to sign up. This for Auth. and we can use sequelize to store users (students, instructors and ITs). We can make special code for students in a range and instructors in another different range so that no students sign up as instructors and we can use these codes later on in rooms and communication. For sure, these codes must be unique as username in users sequelize. 
+Communication process by Socket.io, we can make private rooms between any users and room for inst. and ITs, and special room for students. As a university we can make things more particular because of differentiation between departments, you know each department has inst. and students.
+For final project we can design everything and link it to our backend project and through working on the project we might find some enhancements to be done.
