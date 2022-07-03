@@ -25,7 +25,8 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |massage queue| [massage-queue](./massage-queue.md)| |  |   |
 |Event Driven Architecture| [Event Driven Architecture](./EventDrivenArchitecture.md)|  |  |   |
 |projects| [project](./projects.md)|   |  |   |
-|trees| [trees](./trees.md)|
+|trees| [trees](./trees.md)|   |  |   |
+|AWS| [AWS](./AWS)|
 
 
 
