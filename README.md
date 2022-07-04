@@ -26,7 +26,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |Event Driven Architecture| [Event Driven Architecture](./EventDrivenArchitecture.md)|  |  |   |
 |projects| [project](./projects.md)|   |  |   |
 |trees| [trees](./trees.md)|   |  |   |
-|AWS| [AWS](./AWS)|
+|AWS| [AWS](./AWS)|  |  |   |
+|AWS S3 lambda| [AWS-S3-lambda](./AWS-S3-lambda.md)|
+
 
 
 
