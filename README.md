@@ -27,7 +27,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |projects| [project](./projects.md)|   |  |   |
 |trees| [trees](./trees.md)|   |  |   |
 |AWS| [AWS](./AWS)|  |  |   |
-|AWS S3 lambda| [AWS-S3-lambda](./AWS-S3-lambda.md)|
+|AWS S3 lambda| [AWS-S3-lambda](./AWS-S3-lambda.md)|  |  |   |
+|AWS SQS & SNS| [SQS-SNS](./SQS%26SNS.md)|
+
 
 
 
