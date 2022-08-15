@@ -12,7 +12,7 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |commandLine | [commandLine](./commandLine.md)| |  | |
 |Learning Branches  | [Learning Branches](./learningBranches.md)| |  | |
 |Typing Practice  | [Typing page](TypingPractice.md)| |  |  |
-|introducton to node |[node page](./node.md)| |  |  |
+|introduction to node |[node page](./node.md)| |  |  |
 |Express REST API   | [Express-REST-API page](Express-REST-API.md)| |  |  |
 |linked list   | [Linked list](linked-list.md)| |  |  |
 |Data modeling   | [data modeling page](DataModeling.md)| |  |   |
@@ -40,7 +40,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |--------------------|------------------|  
 | Component Based UI |  [react01](./react01.md)| |  | |
 | React hooks |[hooks](./hooks.md)  | |  | |
-| React hooks02 |[useEffect](./useEffectHook.md)  |
+| React hooks02 |[useEffect](./useEffectHook.md)  | |  | |
+| React useReducer |[useReducer](./useReducer.md)  |
+
 
 
 
