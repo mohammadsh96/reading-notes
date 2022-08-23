@@ -44,7 +44,9 @@ this is mohammad alshraideh web site for  javaScript course documentation
 | React useReducer |[useReducer](./useReducer.md)  |
 | HashTables |[HashTables](./hashTable.md)  |
 |Context API| [contextAPI](./contextAPI.md)|  |
+|hooks and Context |[HooksAndContext](./HooksAndContext.md) |  |
 | | |
+
 
 
 
