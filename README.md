@@ -45,7 +45,18 @@ this is mohammad alshraideh web site for  javaScript course documentation
 | HashTables |[HashTables](./hashTable.md)  |
 |Context API| [contextAPI](./contextAPI.md)|  |
 |hooks and Context |[HooksAndContext](./HooksAndContext.md) |  |
-|react Cookies |[cookies](./LoginAndAuth.md) |
+|react Cookies |[cookies](./LoginA) ||
+|Dynamic API Server | [API server](./APIserver)| |
+
+
+
+
+
+
+
+
+
+
 
 
 
