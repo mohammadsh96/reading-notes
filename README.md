@@ -47,7 +47,8 @@ this is mohammad alshraideh web site for  javaScript course documentation
 |hooks and Context |[HooksAndContext](./HooksAndContext.md) |  |
 |react Cookies |[cookies](./LoginA) ||
 |Dynamic API Server | [API server](./APIserver)| |
-| Redux |[redux](./Redux.md) | 
+| Redux |[redux](./Redux.md) | |
+|combineReducers| [combineReducers](./combineReducers.md)|
 
 
 
